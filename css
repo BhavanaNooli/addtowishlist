@@ -1,0 +1,27 @@
+/* styles.css */
+body {
+  font-family: Arial, sans-serif;
+}
+
+.product-details {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+img {
+  max-width: 100%;
+}
+
+.details-text {
+  text-align: center;
+}
+
+.color-options {
+  display: flex;
+  justify-content: center;
+}
+
+#price {
+  font-size: larger;
+}
